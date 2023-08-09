@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋, I am Nikolay Georgiev </h1>
 <p align="center">
-My name is Nikolay and I realy enjoy coding. I'm an ex-sales and marketing manager with about 20 years of working experiance in international companies. I've reached a point in my life that I want to be close to my family and to do things for leaving that I really enjoy. Therefore I have finally started the path to learn programming and to grab with full hands all the beauties that comes from it.
+and I realy enjoy coding. I'm an ex-sales and marketing manager with about 20 years of working experiance in international companies. I've reached a point in my life that I want to be close to my family and to do things for leaving that I really enjoy. Therefore I have finally started the path to learn programming and to grab with full hands all the beauties that comes from it.
   My current skills are these:
 </p>
 <p align="center">
