@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center">
-These are the services that helps me to show the projects that I'm wokrking on for educational purpose:
+These are the services that helps me show the projects that I'm wokrking on for educational purpose:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
