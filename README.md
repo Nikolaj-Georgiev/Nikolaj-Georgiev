@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there 👋, I am Nikolay Georgiev </h1>
+<h1 align="center"> Hi there 👋, I am Nikolay Georgiev and I realy enjoy coding! &#128513 </h1>
 <p align="center">
-and I realy enjoy coding. I'm an ex-sales and marketing manager with about 20 years of working experiance in international companies. I've reached a point in my life that I want to be close to my family and to do things for leaving that I really enjoy. Therefore I have finally started the path to learn programming and to grab with full hands all the beauties that comes from it.
-  My current skills are these:
+ I have about 20 years of working experiance in international companies in the fields of sales, marketing and management. I've reached a point in my life where I want to be close to my family and to do things for leaving that I really enjoy. And I realy enjoy creating things. Things that can be usefull to other. Therefore I have finally started the path to learn programming and to grab with full hands all the beauties that comes from it.
+  I'm currently developing my skills in these core technologies:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,7 +9,7 @@ and I realy enjoy coding. I'm an ex-sales and marketing manager with about 20 ye
   </a>
 </p>
 <p align="center">
-I use these services to show the projects that I'm wokrking on for educational purpose:
+These are the services that haleps me to show the projects that I'm wokrking on for educational purpose:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,11 +17,11 @@ I use these services to show the projects that I'm wokrking on for educational p
   </a>
 </p>
 <p align="center">
- I'm currently working hard to develop myself as a Front-end developer with a desire to become full-stack web dev in the following months to come. The technologies that I'm currently learning and hoping to become really good at are:
+ I'm currently working hard to develop myself as a Front-end developer with a desire to dig deep in that field. Where I go next in my studies in the following monts is to learn and get skilled in the technologies shown below, beacuse I strongly believe that they will help me build really usefull and beautifull apps. 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,sass,tailwind,ts&theme=dark&perline=4" />
   </a>
 </p>
 <!--
