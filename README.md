@@ -24,11 +24,6 @@ These are the services that helps me show the projects that I'm wokrking on for 
     <img src="https://skillicons.dev/icons?i=react,sass,tailwind,ts&theme=dark&perline=4" />
   </a>
 </p>
- 1. [Header Name](#header-name)
-
-
-### [sdfsdf](https://google.com)
-
 
 <!--
 **NGNikolay/NGNikolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
