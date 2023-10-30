@@ -12,14 +12,9 @@
 These are the services that helps me show the projects that I'm wokrking on for educational purpose:
 </p>
 <p align="center">
-  <a href="https://www.netlify.com">
-    <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=2" />
-  </a>
+  <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=2" /></a>
+  <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=2" /></a>
 </p>
-<p align="center">
-  <a href="https://supabase.com">
-    <img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=2" />
-  </a>
 <p align="center">
  I'm currently working hard to develop myself as a Front-end developer with a desire to dig deep in that field. In the following months I'm planning to learn and get skilled in the technologies shown below, because I strongly believe that they will help me build really useful and beautiful apps. 
 </p>
@@ -29,7 +24,11 @@ These are the services that helps me show the projects that I'm wokrking on for 
   </a>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ngnikolay&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<a href="https://github.com/nikolamihailov?tab=repositories"><img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ngnikolay&theme=gotham&show_icons=true&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@ngnikolay's github-readme-stats"/></a>
+<a href="https://github.com/nikolamihailov?tab=repositories"><img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=ngnikolay&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  alt="@ngnikolay's github-readme-stats"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/ngnikolay?tab=repositories"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngnikolay&layout=compact&theme=gotham&hide_border=true" alt="@ngnikolay's github-readme-stats"/></a>
 </p>
 <!--
 **NGNikolay/NGNikolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
