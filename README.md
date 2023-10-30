@@ -13,10 +13,10 @@ These are the services that helps me show the projects that I'm wokrking on for 
 </p>
 <p align="center">
   <a href="https://www.netlify.com">
-    <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=2" />
   </a>
   <a href="https://supabase.com">
-    <img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=2" />
   </a>
 </p>
 <p align="center">
