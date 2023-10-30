@@ -15,10 +15,11 @@ These are the services that helps me show the projects that I'm wokrking on for 
   <a href="https://www.netlify.com">
     <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=2" />
   </a>
+</p>
+<p align="center">
   <a href="https://supabase.com">
     <img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=2" />
   </a>
-</p>
 <p align="center">
  I'm currently working hard to develop myself as a Front-end developer with a desire to dig deep in that field. In the following months I'm planning to learn and get skilled in the technologies shown below, because I strongly believe that they will help me build really useful and beautiful apps. 
 </p>
