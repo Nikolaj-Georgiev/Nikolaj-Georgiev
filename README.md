@@ -28,7 +28,9 @@ These are the services that helps me show the projects that I'm wokrking on for 
     <img src="https://skillicons.dev/icons?i=react,sass,tailwind,ts&theme=dark&perline=4" />
   </a>
 </p>
-
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ngnikolay&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+</p>
 <!--
 **NGNikolay/NGNikolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
