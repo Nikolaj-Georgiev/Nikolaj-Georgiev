@@ -12,8 +12,11 @@
 These are the services that helps me show the projects that I'm wokrking on for educational purpose:
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,supabase&theme=dark&perline=3" />
+  <a href="https://www.netlify.com">
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=3" />
+  </a>
+  <a href="https://supabase.com">
+    <img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=3" />
   </a>
 </p>
 <p align="center">
