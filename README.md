@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react&theme=dark&perline=5" />
   </a>
 </p>
 <p align="center">
@@ -20,7 +20,7 @@ These are the services that helps me show the projects that I'm wokrking on for 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,sass,tailwind,ts&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,nodejs,nextjs&theme=dark&perline=5" />
   </a>
 </p>
 <p align="center">
