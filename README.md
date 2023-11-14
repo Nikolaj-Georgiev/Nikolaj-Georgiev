@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I am Nikolay Georgiev and I realy enjoy coding! &#128513 </h1>
 <p align="center">
- I have about 20 years of working experience in international companies in the fields of sales, marketing and management. I've reached a point in my life where I want to be close to my family and to do things for living that I really enjoy. And I really enjoy creating things. Things that can be useful to others. So, I have finally stepped on a path of learning programming and grabbing with full hands all the beauties that comes from it.
+ I have many years of working experience in international companies in the fields of sales, marketing and management. I've reached a point in my life where I want to be close to my family and to do things for living that I really enjoy. And I really enjoy creating things. Things that can be useful to others. So, I have finally stepped on a path of learning programming and grabbing with full hands all the beauties that comes from it.
   I'm currently developing my skills in these core technologies:
 </p>
 <p align="center">
