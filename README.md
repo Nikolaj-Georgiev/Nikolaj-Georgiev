@@ -4,21 +4,11 @@
   I'm currently developing my skills in these core technologies:
 </p>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" />
-  </a>
-  <a href="https://css-tricks.com/">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark&perline=5" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=5" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
+  <a href="https://css-tricks.com/"><img src="https://skillicons.dev/icons?i=css&theme=dark&perline=5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark&perline=5" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark&perline=5" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" /></a>
 </p>
 <p align="center">
 These are the services and tools that helps me show the projects that I'm working on for educational purpose:
