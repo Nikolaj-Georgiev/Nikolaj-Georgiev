@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I am Nikolay Georgiev and I realy enjoy coding! &#128513 </h1>
 <p align="center">
- I have many years of working experience in international companies in the fields of sales, marketing and management. I've reached a point in my life where I want to be close to my family and to do things for living that I really enjoy. And I really enjoy creating things. Things that can be useful to others. So, I have finally stepped on a path of learning programming and grabbing with full hands all the beauties that comes from it.
-  I'm currently developing my skills in these core technologies:
+ With a rich background in international companies, I've gathered extensive experience in sales, marketing, and management. As life has evolved, my priorities have shifted towards creating meaningful connections with my family and pursuing work that aligns with my passions. My newfound joy lies in crafting solutions that contribute positively to others' lives.
+  Currently immersed in the world of programming, I am actively developing my skills in the following core technologies:
 </p>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
@@ -11,7 +11,7 @@
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" /></a>
 </p>
 <p align="center">
-These are the services and tools that helps me show the projects that I'm working on for educational purpose:
+These platforms enable me to showcase projects that I'm working on, all driven by the goal of continuous learning and educational sharing.
 </p>
 <p align="center">
   <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=3" /></a>
@@ -19,12 +19,15 @@ These are the services and tools that helps me show the projects that I'm workin
   <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=3" /></a>
 </p>
 <p align="center">
- I'm currently working hard to develop myself as a Front-end developer with a desire to dig deep in that field. In the following months I'm planning to learn and get skilled in the technologies shown below, because I strongly believe that they will help me build really useful and beautiful apps. 
+ As I carve my path in the tech landscape, my focus is on evolving into a Front-end Developer. In the coming months, I am eager to delve into the following technologies:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,nodejs,nextjs&theme=dark&perline=5" />
   </a>
+</p>
+<p align="center">
+ I believe that mastering these technologies will empower me to create not just functional but also aesthetically pleasing applications that serve a real purpose.
 </p>
 <p align="center">
 <a href="https://github.com/ngnikolay?tab=repositories"><img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ngnikolay&theme=gotham&show_icons=true&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@ngnikolay's github-readme-stats"/></a>
