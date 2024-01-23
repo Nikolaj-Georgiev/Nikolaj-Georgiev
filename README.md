@@ -6,50 +6,26 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 I am currently developing my skills in the following technologies:
 
-- **HTML**: HyperText Markup Language, the standard markup language for documents designed to be displayed in a web browser.
+**HTML**, **CSS**, **JavaScript**, **Git**, **React**
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
-</p>
-
-- **CSS**: Cascading Style Sheets, a style sheet language used for describing the look and formatting of a document written in HTML.
-<p align="center">
-  <a href="https://css-tricks.com/"><img src="https://skillicons.dev/icons?i=css&theme=dark&perline=5" /></a>
-</p>
-
-- **JavaScript**: A high-level, interpreted programming language that conforms to the ECMAScript specification.
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark&perline=5" /></a>
-</p>
-
-- **Git**: A distributed version control system for tracking changes in source code during software development.
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark&perline=5" /></a>
-</p>
-
-- **React**: A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies.
-<p align="center">
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
+  <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark&perline=5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark&perline=5" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark&perline=5" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" /></a>
 </p>
 
 ## Platforms
 I am using these platforms to showcase projects that I'm working on, all driven by the goal of continuous learning and educational sharing:
 
-- **Netlify**: An all-in-one platform for automating modern web projects.
+**Netlify**, **Supabase**, **Vite**
 <p align="center">
-  <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=3" /></a>
+  <a href="https://www.netlify.com" target="_blank"><img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=3" /></a>
+  <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=3" /></a>
+  <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=3" /></a>
 </p>
 
-- **Supabase**: An open source Firebase alternative.
-<p align="center">
-  <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark&perline=3" /></a>
-</p>
-
-- **Vite**: A build tool that aims to provide a faster and leaner development experience for modern web projects.
-<p align="center">
-  <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=3" /></a>
-</p>
-
-As I carve my path in the tech landscape, my focus is on evolving into a Front-end Developer. In the coming months, I am eager to delve into the following technologies:
+As I carve my path in the tech landscape, my focus is on evolving into a Full stack Web Developer. In the coming months, I am eager to delve into the following technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
