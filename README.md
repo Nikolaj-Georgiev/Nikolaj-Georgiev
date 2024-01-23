@@ -6,13 +6,14 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 I am currently developing my skills in the following technologies:
 
-**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**
+**HTML**, **CSS**, **JavaScript**, **Git**, **React.js** **Redux**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
-  <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark&perline=5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark&perline=5" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark&perline=5" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" /></a>
+  <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /></a>
 </p>
 
 ## Platforms
