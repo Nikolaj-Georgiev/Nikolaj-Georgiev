@@ -32,7 +32,7 @@ As I carve my path in the tech landscape, my focus is on evolving into a Full st
 **SASS**, **Tailwind CSS**, **TypeScript**, **Node.js**, **Next.js**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,nodejs,nextjs&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=sass,ts,tailwind,nodejs,nextjs&theme=dark&perline=5" />
   </a>
 </p>
 
