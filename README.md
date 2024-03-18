@@ -40,11 +40,11 @@ I believe that mastering these technologies will empower me to create not just f
 
 ## GitHub Stats
 <p align="center">
-<a href="https://github.com/ngnikolay?tab=repositories"><img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ngnikolay&theme=gotham&show_icons=true&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@ngnikolay's github-readme-stats"/></a>
-<a href="https://github.com/ngnikolay?tab=repositories"><img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=ngnikolay&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  alt="@ngnikolay's github-readme-stats"/></a>
+<a href="https://github.com/nikolaj-georgiev?tab=repositories"><img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nikolaj-georgiev&theme=gotham&show_icons=true&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@nikolaj-georgiev's github-readme-stats"/></a>
+<a href="https://github.com/nikolaj-georgiev?tab=repositories"><img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=nikolaj-georgiev&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  alt="@nikolaj-georgiev's github-readme-stats"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/ngnikolay?tab=repositories"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngnikolay&layout=compact&theme=gotham&hide_border=true" alt="@ngnikolay's github-readme-stats"/></a>
+<a href="https://github.com/nikolaj-georgiev?tab=repositories"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaj-georgiev&layout=compact&theme=gotham&hide_border=true" alt="@nikolaj-georgiev's github-readme-stats"/></a>
 </p>
 
 <!--
