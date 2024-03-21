@@ -29,10 +29,10 @@ I am using these platforms to showcase projects that I'm working on, all driven 
 ## Learning...
 As I carve my path in the tech landscape, my focus is on evolving into a Full stack Web Developer. In the coming months, I am eager to delve into the following technologies:
 
-**SASS**, **Tailwind CSS**, **TypeScript**, **Node.js**, **Next.js**
+**SASS**, **TypeScript**, **Node.js**, **Tailwind CSS**, **Next.js**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,ts,tailwind,nodejs,nextjs&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=sass,ts,nodejs,tailwind,nextjs&theme=dark&perline=5" />
   </a>
 </p>
 
