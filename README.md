@@ -6,7 +6,7 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 I am currently developing my skills in the following technologies:
 
-**HTML**, **CSS**, **JavaScript**, **Git**, **React.js** **Redux**
+**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
   <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
@@ -14,6 +14,7 @@ I am currently developing my skills in the following technologies:
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
   <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=dark" /></a>
 </p>
 
 ## Platforms
@@ -29,10 +30,10 @@ I am using these platforms to showcase projects that I'm working on, all driven 
 ## Learning...
 As I carve my path in the tech landscape, my focus is on evolving into a Full stack Web Developer. In the coming months, I am eager to delve into the following technologies:
 
-**SASS**, **TypeScript**, **Node.js**, **Tailwind CSS**, **Next.js**
+**TypeScript**, **Node.js**, **Tailwind CSS**, **Next.js**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,ts,nodejs,tailwind,nextjs&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,tailwind,nextjs&theme=dark&perline=4" />
   </a>
 </p>
 
