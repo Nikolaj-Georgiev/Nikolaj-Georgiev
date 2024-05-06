@@ -4,7 +4,7 @@ With a rich background in international companies, I've gathered extensive exper
 
 
 ## Skills
-I am currently developing my skills in the following technologies:
+Currently my skills are in the following technologies:
 
 **HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**
 <p align="center">
