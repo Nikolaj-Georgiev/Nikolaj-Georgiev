@@ -6,7 +6,7 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 Currently my skills are in the following technologies:
 
-**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **MongoDB**, **PostgreSQL**
+**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
   <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
@@ -15,7 +15,8 @@ Currently my skills are in the following technologies:
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
   <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=dark" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
 </p>
