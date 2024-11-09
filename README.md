@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nikolay Georgiev, a passionate coder! 😁
+# Hi there 👋, I'm Nikolay Georgiev, a passionate problem solver! 😁
 
 With a rich background in international companies, I've gathered extensive experience in sales, marketing, and management. As life has evolved, my priorities have shifted towards creating meaningful connections with my family and pursuing work that aligns with my passions. My newfound joy lies in crafting solutions that contribute positively to others' lives.
 
