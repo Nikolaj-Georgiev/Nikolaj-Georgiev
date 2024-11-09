@@ -8,7 +8,7 @@ Currently my skills are in the following technologies:
 
 **HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=9" /></a>
   <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
@@ -22,6 +22,10 @@ Currently my skills are in the following technologies:
   <a href="https://chakra-ui.com/" target="_blank" style="display: inline-block; background-color: #eeeeee; border-radius: 5px; padding: 10px;">
   <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logomark-colored.svg" alt="Chakra UI Logo" width="40" height="40" style="display: block;" />
 </a>
+ <a href="https://chakra-ui.com/" target="_blank"
+    style="display: flex; background-color: #888; width: 48px; height: 48px; border-radius: 8px;"><img
+      style="margin: auto auto;" width="32" height="32" src="logomark-colored.svg" alt="Chakra UI logo"></a>
+
 
 
 
