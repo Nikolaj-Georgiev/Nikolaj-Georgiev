@@ -6,7 +6,7 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 Currently my skills are in the following technologies:
 
-**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**
+**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **MongoDB**, **PostgreSQL**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=5" /></a>
   <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
@@ -15,6 +15,8 @@ Currently my skills are in the following technologies:
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
   <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=dark" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" /></a>
 </p>
 
 ## Platforms
@@ -30,10 +32,10 @@ I am using these platforms to showcase projects that I'm working on, all driven 
 ## Learning...
 As I carve my path in the tech landscape, my focus is on evolving into a Full stack Web Developer. In the coming months, I am eager to delve into the following technologies:
 
-**TypeScript**, **Node.js**, **Tailwind CSS**, **Next.js**
+**TypeScript**, **Tailwind CSS**, **Next.js**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,tailwind,nextjs&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs&theme=dark&perline=4" />
   </a>
 </p>
 
