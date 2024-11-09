@@ -6,7 +6,7 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 Currently my skills are in the following technologies:
 
-**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**
+**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **Chakra UI**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=9" /></a>
   <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
