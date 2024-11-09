@@ -17,6 +17,7 @@ Currently my skills are in the following technologies:
   <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=dark" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
 </p>
 
 ## Platforms
