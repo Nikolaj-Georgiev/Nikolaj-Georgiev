@@ -19,7 +19,13 @@ Currently my skills are in the following technologies:
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=chakra&theme=dark" /></a>
+  <a href="https://chakra-ui.com/" target="_blank" style="display: inline-block; background-color: #eeeeee; border-radius: 5px; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logomark-colored.svg" alt="Chakra UI Logo" width="40" height="40" style="display: block;" />
+</a>
+
+
+
+  
 </p>
 
 ## Platforms
