@@ -6,7 +6,7 @@ With a rich background in international companies, I've gathered extensive exper
 ## Skills
 Currently my skills are in the following technologies:
 
-**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **Chakra UI**
+**HTML**, **CSS**, **JavaScript**, **Git**, **React.js**, **Redux**, **SASS**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **Chakra UI**, **Tailwind CSS**, **TypeScript**, **Docker**, **Nginx**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=9" /></a>
   <a href="https://css-tricks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
@@ -20,12 +20,10 @@ Currently my skills are in the following technologies:
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logomark-colored.svg" alt="Chakra UI Logo" width="48" height="48"/></a>
-
-
-
-
-
-  
+  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+  <a href="https://www.nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
 </p>
 
 ## Platforms
@@ -39,12 +37,11 @@ I am using these platforms to showcase projects that I'm working on, all driven 
 </p>
 
 ## Learning...
-As I carve my path in the tech landscape, my focus is on evolving into a Full stack Web Developer. In the coming months, I am eager to delve into the following technologies:
+Currently, I am learning and building projects with **Astro**, and the next technology I have planned to explore is **Next.js**.
 
-**TypeScript**, **Tailwind CSS**, **Next.js**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs&theme=dark&perline=4" />
   </a>
 </p>
 
