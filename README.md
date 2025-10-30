@@ -38,7 +38,7 @@ I am using these platforms and tools:
 </p>
 
 ## Learning...
-Currently, I am learning and building projects with **Astro**, and the next technology I have planned to explore is **Next.js**.
+Currently, I am learning and building projects with **Astro**, and **Next.js**.
 
 <p align="center">
   <a href="https://skillicons.dev">
